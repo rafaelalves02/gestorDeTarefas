@@ -33,6 +33,8 @@ export class TaskDetailsComponent {
 
   save(){
     this.taskService.updateTask();
+
+    this.navigateBack();
   }
 
   cancel() {
