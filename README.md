@@ -6,4 +6,4 @@
 
 <img src="public/assets/imagemGestorDeTarefas.png">
 
-<img src="public/assets/imagemTaskDetails.png>
+<img src="public/assets/imagemTaskDetails.png">
